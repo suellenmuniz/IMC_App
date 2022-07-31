@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Imc App</string>
+    <string name="hello_word">Olá mundo</string>
+    <string name="Hi_radiobutton">Olá radioButton</string>
+    <string name="hi_checkbok">Olá checkbox</string>
+    <string name="imc">IMC</string>
+    <string name="peso_ex">Peso (ex= 59kg)</string>
+    <string name="altura_cm">Altura (ex= 1,59 cm)</string>
+    <string name="calcular">Calcular</string>
+
+</resources>
